@@ -1,0 +1,56 @@
+:root {
+	--background-color:#ededed;
+	--theme-color-1:#373737;
+	--theme-color-2:#373737;
+	--text-color: #373737;
+}
+#title {
+	color: var(--theme-color-1);
+	font-size: xxx-large;
+	padding-bottom: 2%;
+	padding-top: 2%;
+}
+
+#nav {
+	font-size: medium;
+	padding-bottom: 5%;
+	color: var(--theme-color-2);
+
+}
+#aboutme {
+	font-size: large;
+	padding-bottom: 10%;
+}
+.topicbanner {
+	color: var(--theme-color-1);
+	font-size: xx-large;
+	padding-bottom: 5%;
+	padding-left : 5%;
+	text-align: left;
+}
+.projecttitle {
+	color: var(--theme-color-2);
+	font-size: x-large;
+}
+.blogpost {
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 5%;
+	font-size: medium;
+	text-align: left;
+
+}
+.blogdate {
+	color: var(--theme-color-2);
+}
+a {
+	padding-left: 15px; 
+	color: inherit;
+}
+p {
+	font-size: medium;
+	color: var(--text-color);
+}
+body {
+	background-color:var(--background-color);
+}
