@@ -20,6 +20,8 @@
 #aboutme {
 	font-size: large;
 	padding-bottom: 10%;
+	padding-right: 5%; 
+	padding-left: 5%;
 }
 .topicbanner {
 	color: var(--theme-color-1);
@@ -48,9 +50,12 @@ a {
 	color: inherit;
 }
 p {
+	text-indent: 50px;
+	line-height: 1.8;
 	font-size: medium;
 	color: var(--text-color);
 }
+
 body {
 	background-color:var(--background-color);
 }
