@@ -34,9 +34,12 @@
 	color: var(--theme-color-2);
 	font-size: x-large;
 }
+.projectdesc{
+	padding-top: 5%;
+}
 .blogpost {
-	padding-left: 5%;
-	padding-right: 5%;
+	padding-left: 20%;
+	padding-right: 20%;
 	padding-bottom: 5%;
 	font-size: medium;
 	text-align: left;
