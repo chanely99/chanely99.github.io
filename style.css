@@ -38,8 +38,8 @@
 	padding-top: 5%;
 }
 .blogpost {
-	padding-left: 20%;
-	padding-right: 20%;
+	padding-left: 15%;
+	padding-right: 15%;
 	padding-bottom: 5%;
 	font-size: medium;
 	text-align: left;
@@ -47,6 +47,9 @@
 }
 .blogdate {
 	color: var(--theme-color-2);
+}
+li {
+	font-weight: bold;
 }
 a {
 	padding-left: 15px; 
